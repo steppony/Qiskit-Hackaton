@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-Hello World this is our lecture
-*This is fat text*
-# this is a h1
+# Learning about quantum teleportation and debunking myths on the way
 ## this is a h2
 
 
