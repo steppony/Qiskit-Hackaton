@@ -16,61 +16,38 @@ Content:
 - Show Teleportation circuit [INSERT TELEPORTATION CIRCUIT]
 - The Teleportation circuit is used to show the students where the lecture is headed to. The teacher promises to teach them a little bit about real teleportation
 
-### Overview
+### Qubits & Superposition 
 
-Duration: 5 Minutes
+Duration: 10 Minutes
 
-Form of Teaching: Self Reading
+Form of Teaching: Teaching 
 
-Let the students read the additional text which can be found [Here](AdditionalText.md)
+Content:
+- Kahoot *questions 2 - 4* 
+- Explain what a qubit is in distinction to classical bit
+- show the concept of superposition with the 2d simulation "Bloch circle"
 
 
-### Discussion
+### Gates and measurements 
 
 Duration: 10 Minutes
 
 Form of Teaching: Open Discussion
 
-Discuss with the students the text the read, and the concepts they saw there.
-Let the students ask questions, which other students might answer, and answer yourself if the students cant.
-Make sure the basic concepts are understood such that they can solve the exercises.
+- Explain X, H, Z gate using the excercise provided *Excercise 1*
 
 
-
-### Learning Exercises
+### Putting it all together - Quantum teleportation
 
 
 Duration: 10 Minutes
 
-Form of Teaching: Students solve exercises on their own.
+Form of Teaching: Teacher explains qiskit code
 
 
-The exercises can be found [Here](ExampleExercise.ipynb)
-
-The students will be given enough time to solve the exercises , and ask additional questions if any come up.
-
-
-
-### Discussion of Solutions
-
-
-Duration: 5 Minutes
-
-Form of Teaching: Open Discussion
-
-Let students present their solutions for the different exercises.
-You should also make a file including the solutions and link it in here.
-
-
-### Advanced Concepts
-
-Duration: 10 Minutes
-
-Form of Teaching: Presentation by Teacher
-
-Explain them some more advanced concepts building up on what they saw in the exercise.
-
-You could write what you want to tell them here. (In case you want to use this for your theory part)
+Content: 
+- Kahoot *questions 4-6*
+- Step by step walk through the code to implement the quantum teleportation algorithm and show the results - quantum teleportation actually works
 
 
 
