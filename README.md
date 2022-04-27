@@ -31,9 +31,10 @@ Regardless of the outcome next the quantum teleporation cirucit is shown. The st
 
 Duration: 5 Minutes
 
-Form of Teaching: Presentation by Teacher Including Kahoot 
+Form of Teaching: Presentation by Teacher
 
 Content:
+
 -Introduction using Kahoot
 - Kahoot *Questions 1-3*
 - Teleportation Circuit![TELEPORTATION CIRCUIT](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/teleportation_circuit.png)
@@ -54,7 +55,7 @@ Content:
 
 Duration: 10 Minutes
 
-Form of Teaching: Open Discussion and Kahoot
+Form of Teaching: Open Discussion
 
 -Kahoot *Questions 8-10*
 - Explain X, H, Z gate using the excercise provided *Excercise 1*
