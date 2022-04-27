@@ -80,7 +80,8 @@ Content:
 MISSING!
 
 
-# Qiskit-Hackaton
+# Qiskit-Hackaton Excersices
+The tasks done by us can be found in the [Hackathon_Excersices](https://github.com/steppony/Qiskit-Hackaton/tree/main/hackathon_exercises) folder.
 
 
 
