@@ -49,7 +49,9 @@ Content:
 - Explain what a qubit is in distinction to classical bit
 - Focus the concept of superposition with the 2D animation of the "Bloch circle" !["Bloch circle"](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/qubit_animation.gif)
 - Compare exponential scale up of qubit states due to superpostion to linear scale up of bits
+
 Takeaway:
+
 - Quantum computers process information differently since superposition allows for quantum parallelism 
 
 ### Gates and measurements 
