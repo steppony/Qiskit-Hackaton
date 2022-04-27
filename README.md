@@ -1,5 +1,5 @@
 
-# Learn how to teleport and debunk myths about quantum computing on the way
+# Quantum Jargon Busters
 
 ## Abstract
 
