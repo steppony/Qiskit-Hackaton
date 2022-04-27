@@ -49,16 +49,21 @@ Content:
 - Explain what a qubit is in distinction to classical bit
 - Focus the concept of superposition with the 2D animation of the "Bloch circle" !["Bloch circle"](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/qubit_animation.gif)
 - Compare exponential scale up of qubit states due to superpostion to linear scale up of bits
-
+Takeaway:
+- Quantum computers process information differently since superposition allows for quantum parallelism 
 
 ### Gates and measurements 
 
 Duration: 20 Minutes
 
-Form of Teaching: Open Discussion
+Form of Teaching: Open Discussion & Excercises
 
 - Kahoot *Questions 9-10*
-- Explain X, H, Z gate using the excercise provided *Excercise 1*
+- X-,H-Gate with [Learning exercise a,b](https://github.com/steppony/Qiskit-Hackaton/blob/main/Exercises/learning_exercises.ipynb)
+- Visiualization and explanation of X-,H- & Z-Gate with the [single qubit](https://github.com/steppony/Qiskit-Hackaton//main/Visualizations/single_qubit_gates.png) truth tables 
+
+Takeway: 
+- Know basic sinlge qubit gates and their functionality
 
 
 ### Putting it all together - Quantum teleportation
