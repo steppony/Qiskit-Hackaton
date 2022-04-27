@@ -3,7 +3,7 @@
 
 ## Abstract
 
-This lecture is designed to introduce Gate based quantum computing in an intuitive manner to high school students with a mayor in physics. No preknowledge in quantum mechanics is needed.
+This lecture is designed to introduce Gate based quantum computing in an intuitive manner to high school students with a major in physics. No preknowledge in quantum mechanics is needed.
 On our path from superficial buzz words to the main goal, comprehending the quantum teleportation channel we will debunk quantum myths, get to know fun facts and learn about the basic gates.
 We hope to create an awareness about the true power of quantum computation.
 The skills and knowledge aquired in this lecture will help students interested in quantum technologies to further engage the quantum computing community and allow them to follow more advanced lectures regarding this topic.
