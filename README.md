@@ -1,4 +1,4 @@
-![](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/Measurement_visualization_compressed.gif)
+
 # Quantum Jargon Busters
 
 ## Abstract
@@ -66,8 +66,7 @@ Form of Teaching: Open Discussion & Exercices + Video
 - Explaining the concept of two-qubit controlled gates with the two-qubit controlled gate truth tables![two-qubit controlled](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/multiple_qubit_gates.png) 
 - Experiencing the CX-Gate in the [Learning exercise](https://github.com/steppony/Qiskit-Hackaton/blob/main/Exercises/learning_exercises.ipynb) part c)
 - (BONUS) Intuitivley get in touch with the concept of entanglement by combining single-,two-qubit gates as well as measurements with the [CX-H-X excercise](https://github.com/steppony/Qiskit-Hackaton/blob/main/Exercises/CX_H_X_excercise.ipynb)
-- Show the self explaining video ([link to video](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/Measurement_visualization_cut.mp4)) to quantum measurements (the corresponding slides are shown below) ![pdf](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/measurement_visualization-1.png) ![pdf](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/measurement_visualization-2.png) ![pdf](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/measurement_visualization-3.png) ![pdf](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/measurement_visualization-4.png) ![pdf](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/measurement_visualization-5.png) ![pdf](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/measurement_visualization-6.png) 
-
+- Show the self explaining video to quantum measurements ![](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/Measurement_visualization_compressed.gif) 
 Takeway: 
 - Know the basic sinlge-qubit gates and their action to different states
 - Transfer single-qubit knowledge to two-qubit controlled gates
