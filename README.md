@@ -1,4 +1,4 @@
-https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/Measurement_visualization_compressed.mp4
+
 # Quantum Jargon Busters
 
 ## Abstract
@@ -83,7 +83,7 @@ Form of Teaching: Teacher explains qiskit code
 
 Content: 
 - Kahoot *questions 11-13*
-- Step by step walk through the quantum [teleportation code](https://github.com/steppony/Qiskit-Hackaton/blob/main/Exercises/test_exercise.ipynb)
+- Step by step walk through the quantum [teleportation code](https://github.com/steppony/Qiskit-Hackaton/blob/main/Exercises/Teleportation_circuit.ipynb)
 - Demonstrate that teleporting a quantum state actually works
 
 Takeaway:
@@ -101,7 +101,7 @@ Takeaway:
 - Be confident to tackle other quantum circuits
 
 # Qiskit-Hackaton Excersices
-The tasks done by us can be found in the [Hackathon_Excersices](https://github.com/steppony/Qiskit-Hackaton/tree/main/hackathon_exercises) folder.
+The tasks done by us can be found in the [Hackathon_Excersices](https://github.com/steppony/Qiskit-Hackaton/blob/main/Exercises/test_exercise.ipynb) folder.
 
 
 
