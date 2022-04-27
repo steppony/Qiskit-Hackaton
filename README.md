@@ -67,6 +67,8 @@ Form of Teaching: Open Discussion & Exercices + Video
 - Experiencing the CX-Gate in the [Learning exercise](https://github.com/steppony/Qiskit-Hackaton/blob/main/Exercises/learning_exercises.ipynb) part c)
 - (BONUS) Intuitivley get in touch with the concept of entanglement by combining single-,two-qubit gates as well as measurements with the [CX-H-X excercise](https://github.com/steppony/Qiskit-Hackaton/blob/main/Exercises/CX_H_X_excercise.ipynb)
 - Show the self explaining video to quantum measurements ![](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/Measurement_visualization_compressed.gif) 
+
+
 Takeway: 
 - Know the basic sinlge-qubit gates and their action to different states
 - Transfer single-qubit knowledge to two-qubit controlled gates
