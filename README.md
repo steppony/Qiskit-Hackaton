@@ -45,7 +45,7 @@ Duration: 10 Minutes
 Form of Teaching: Teaching 
 
 Content:
-- Kahoot *questions 4-6* 
+- Kahoot *questions 4-7* 
 - Explain what a qubit is in distinction to classical bit
 - show the concept of superposition with the 2d simulation !["Bloch circle"](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/qubit_animation.gif)
 
@@ -54,8 +54,9 @@ Content:
 
 Duration: 10 Minutes
 
-Form of Teaching: Open Discussion
+Form of Teaching: Open Discussion and Kahoot
 
+-Kahoot *questions 8-10*
 - Explain X, H, Z gate using the excercise provided *Excercise 1*
 
 
@@ -68,7 +69,7 @@ Form of Teaching: Teacher explains qiskit code
 
 
 Content: 
-- Kahoot *questions 4-6*
+- Kahoot *questions 11-13*
 - Step by step walk through the code to implement the quantum teleportation algorithm and show the results - quantum teleportation actually works
 
 
