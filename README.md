@@ -61,7 +61,7 @@ Duration: 25 Minutes
 Form of Teaching: Open Discussion & Exercices + Video
 
 - Kahoot *Questions 9-10*
-- X-,H-Gate with [Learning exercise](https://github.com/steppony/Qiskit-Hackaton/blob/main/Exercises/learning_exercises.ipynb) part a),b)
+- X-,H-Gate with [Learning exercise](https://github.com/steppony/Qiskit-Hackaton/blob/main/Exercises/learning_exercises.ipynb) part a) and b)
 - Visiualization and explanation of X-,H- & Z-Gate with the single-qubit gate truth tables ![single-qubit](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/single_qubit_gates.png) 
 - Explaining the concept of two-qubit controlled gates with the two-qubit controlled gate truth tables![two-qubit controlled](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/multiple_qubit_gates.png) 
 - Experiencing the CX-Gate in the [Learning exercise](https://github.com/steppony/Qiskit-Hackaton/blob/main/Exercises/learning_exercises.ipynb) part c)
