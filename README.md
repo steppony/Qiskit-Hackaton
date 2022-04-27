@@ -35,13 +35,12 @@ Form of Teaching: Presentation by Teacher
 
 Content:
 
--Introduction using Kahoot
-- Kahoot *Questions 1-3*
+- Introduction with Kahoot *Questions 1-3*
 - Teleportation Circuit![TELEPORTATION CIRCUIT](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/teleportation_circuit.png)
 - The Teleportation circuit is used to show the students where the lecture is headed and what the students can expect to learn.
 ### Qubits & Superposition 
 
-Duration: 10 Minutes
+Duration: 15 Minutes
 
 Form of Teaching: Teaching 
 
@@ -53,7 +52,7 @@ Content:
 
 ### Gates and measurements 
 
-Duration: 10 Minutes
+Duration: 15 Minutes
 
 Form of Teaching: Open Discussion
 
@@ -64,23 +63,21 @@ Form of Teaching: Open Discussion
 ### Putting it all together - Quantum teleportation
 
 
-Duration: 10 Minutes
+Duration: 20 Minutes
 
 Form of Teaching: Teacher explains qiskit code
 
 
 Content: 
 - Kahoot *questions 11-13*
-- Step by step walk through the code to implement the quantum teleportation algorithm and show the results - quantum teleportation actually works
+- Step by step walk through the code to implement the quantum teleportation algorithm and show the results 
+- Quantum teleportation actually works
 
 
 
 ### Testing Exercise
 
-At the end you should also link to at least one testing exercise, which help the students test if they understood the material. 
-The solution for this exercise can be in the same file as the other solution if you want.
-
-This will be not part of the exercise, but is thought for the students to test their knowledge.
+MISSING!
 
 
 # Qiskit-Hackaton
