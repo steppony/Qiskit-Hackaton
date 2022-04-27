@@ -10,9 +10,22 @@ The skills and knowledge aquired in this lecture will help students interested i
 This lecture aims to provide as much information about quantum computing as possible using minmial mathematical and physical concepts. We therefore e.g. neglect the normalization and phase of the wavefunction to make this lecture more
 tangible to high school students.
 
-- We use a kahoot quiz that consists of common myths and buzzwords and is funny. 
-- The kahoot quiz is used between the short theory units to recatch the students attention
-- we indicate where in the lecture the questions are posed like this: *question x - y*
+
+### Kahoot
+A Kahoot quiz is used to open and accompany the lecture along its way. It is used to introduce a short break in between the different sections of the lectures keeping the students enganged and recatch their attention. 
+Hence making the lecture more interactive and fun. Only a few questions will be asked at a time with the last one acting as a transition to the next section. The questions cover actual facts about buzzwords regarding quantum computers as well as myths and can be a bit more andvanced. The lecturer will give a short explaination of the true statement after the question was asked in the Kahoot.
+This procedure will reveal myths that are untrue or partly unture while new facts will have a learning effect aswell or spark interest in a specific topic. 
+Examples are: 
+	Q: Quantum Computing can only be realized by a gate based approach. 
+	A: False. There different realizations of a quantum computer such as measurement based or adiabatic quantum quantum computing.
+
+	Q: A quantum system will collapse only if you observe it.
+	A: False. Also interactions with the envoirnment and noise can force a quantum wavefunction to collapse. We will investigate how measurements affect our quantum        system in the next section. 
+
+
+To start the lecture a picture of a science fiction teleportation will be presented asking the students what is happening in the picture. With the answer being teleporation the next question is if teleporation is actually possible in real life. 
+Regardless of the outcome next the quantum teleporation cirucit is shown. The students are told that at the end of the lecture they will at least know parts of this circuit. They are also told that along their learing curve they will get to know more fun facts such as the teleportation one.
+
 
 ### Introduction
 
