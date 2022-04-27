@@ -60,8 +60,8 @@ Form of Teaching: Open Discussion & Excercises
 
 - Kahoot *Questions 9-10*
 - X-,H-Gate with [Learning exercise](https://github.com/steppony/Qiskit-Hackaton/blob/main/Exercises/learning_exercises.ipynb) part a),b)
-- Visiualization and explanation of X-,H- & Z-Gate with the [single-qubit](https://github.com/steppony/Qiskit-Hackaton//main/Visualizations/single_qubit_gates.png) gate truth tables 
-- Explaining the concept of two-qubit controlled gates with the [two-qubit controlled](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/multiple_qubit_gates.png) gate truth tables
+- Visiualization and explanation of X-,H- & Z-Gate with the ![single-qubit](https://github.com/steppony/Qiskit-Hackaton//main/Visualizations/single_qubit_gates.png) gate truth tables 
+- Explaining the concept of two-qubit controlled gates with the ![two-qubit controlled](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/multiple_qubit_gates.png) gate truth tables
 - Experiencing the CX-Gate in the [Learning exercise](https://github.com/steppony/Qiskit-Hackaton/blob/main/Exercises/learning_exercises.ipynb) part c)
 - (BONUS) Intuitivley get in touch with the concept of entanglement by combining single-,two-qubit gates as well as measurements with the [CX-H-X excercise](https://github.com/steppony/Qiskit-Hackaton/blob/main/Exercises/CX_H_X_excercise.ipynb)
 
