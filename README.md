@@ -45,9 +45,10 @@ Duration: 15 Minutes
 Form of Teaching: Teaching 
 
 Content:
-- Kahoot *Questions 4-7* 
+- Kahoot *Questions 4-8* 
 - Explain what a qubit is in distinction to classical bit
-- Explain the concept of superposition with the 2D animation of the "Bloch circle" !["Bloch circle"](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/qubit_animation.gif)
+- Focus the concept of superposition with the 2D animation of the "Bloch circle" !["Bloch circle"](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/qubit_animation.gif)
+- Compare exponential scale up of qubit states due to superpostion to linear scale up of bits
 
 
 ### Gates and measurements 
@@ -56,7 +57,7 @@ Duration: 20 Minutes
 
 Form of Teaching: Open Discussion
 
-- Kahoot *Questions 8-10*
+- Kahoot *Questions 9-10*
 - Explain X, H, Z gate using the excercise provided *Excercise 1*
 
 
