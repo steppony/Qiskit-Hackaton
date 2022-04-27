@@ -1,11 +1,12 @@
 
 # Learn how to teleport and debunk myths about quantum computing on the way
 
-##Abstract
+## Abstract
+
 This lecture is designed to introduce Gate based quantum computing in an intuitive manner to high school students with a mayor in physics. No preknowledge in quantum mechanics is needed.
 On our path from superficial buzz words to the main goal, comprehending the quantum teleportation channel we will debunk quantum myths, get to know fun facts and learn about the basic gates.
 We hope to create an awareness about the true power of quantum computation.
-The skills and knowledge aquired in this lecture will help students interested in quantum technologies to further engage the quantum computing community and allow them to follow advanced lectures regarding this topic.
+The skills and knowledge aquired in this lecture will help students interested in quantum technologies to further engage the quantum computing community and allow them to follow more advanced lectures regarding this topic.
 This lecture aims to provide as much information about quantum computing as possible using minmial mathematical and physical concepts. We therefore e.g. neglect the normalization and phase of the wavefunction to make this lecture more
 tangible to high school students.
 
