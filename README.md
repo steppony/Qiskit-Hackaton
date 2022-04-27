@@ -16,6 +16,7 @@ A Kahoot quiz is used to open and accompany the lecture along its way. It is use
 Hence making the lecture more interactive and fun. Only a few questions will be asked at a time with the last one acting as a transition to the next section. The questions cover actual facts about buzzwords regarding quantum computers as well as myths and can be a bit more andvanced. The lecturer will give a short explaination of the true statement after the question was asked in the Kahoot.
 This procedure will reveal myths that are untrue or partly unture while new facts will have a learning effect aswell or spark interest in a specific topic. 
 Examples are: 
+	
 	Q: Quantum Computing can only be realized by a gate based approach. 
 	A: False. There different realizations of a quantum computer such as measurement based or adiabatic quantum quantum computing.
 	Q: A quantum system will collapse only if you observe it.
