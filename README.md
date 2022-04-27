@@ -59,11 +59,13 @@ Duration: 20 Minutes
 Form of Teaching: Open Discussion & Excercises
 
 - Kahoot *Questions 9-10*
-- X-,H-Gate with [Learning exercise a,b](https://github.com/steppony/Qiskit-Hackaton/blob/main/Exercises/learning_exercises.ipynb)
-- Visiualization and explanation of X-,H- & Z-Gate with the [single qubit](https://github.com/steppony/Qiskit-Hackaton//main/Visualizations/single_qubit_gates.png) truth tables 
+- X-,H-Gate with [Learning exercise](https://github.com/steppony/Qiskit-Hackaton/blob/main/Exercises/learning_exercises.ipynb) a),b)
+- Visiualization and explanation of X-,H- & Z-Gate with the [single-qubit](https://github.com/steppony/Qiskit-Hackaton//main/Visualizations/single_qubit_gates.png) gate truth tables 
+- Explaining the concept of two-qubit controlled gates with the [two-qubit controlled](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/multiple_qubit_gates.png) gate truth table
 
 Takeway: 
-- Know basic sinlge qubit gates and their functionality
+- Know the basic sinlge-qubit gates and their functionality
+- Transfer single-qubit knowledge to two-qubit controlled gates
 
 
 ### Putting it all together - Quantum teleportation
