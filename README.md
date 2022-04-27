@@ -20,7 +20,7 @@ Examples are:
 	Q: Quantum Computing can only be realized by a gate based approach. 
 	A: False. There are different realizations of a quantum computer such as measurement based or adiabatic quantum quantum computing.
 	Q: A quantum system will collapse only if you observe it.
-	A: False. Also interactions with the envoirnment and noise can force a quantum wavefunction to collapse. We will investigate how measurements affect our 	    quantum system in the next section. 
+	A: False. Also interactions with the envoirnment and noise can force a quantum wavefunction to collapse. We will investigate how measurements affect our quantum system in the next section. 
 
 
 To start the lecture a picture of a science fiction teleportation will be presented asking the students what is happening in the picture. With the answer being teleporation the next question is if teleporation is actually possible in real life. 
