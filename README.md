@@ -63,11 +63,11 @@ Form of Teaching: Open Discussion & Excercises
 - Visiualization and explanation of X-,H- & Z-Gate with the [single-qubit](https://github.com/steppony/Qiskit-Hackaton//main/Visualizations/single_qubit_gates.png) gate truth tables 
 - Explaining the concept of two-qubit controlled gates with the [two-qubit controlled](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/multiple_qubit_gates.png) gate truth tables
 - Experiencing the CX-Gate in the [Learning exercise](https://github.com/steppony/Qiskit-Hackaton/blob/main/Exercises/learning_exercises.ipynb) part c)
-- (BONUS) Intuitivley get in touch with the concept of entanglement by combining single-,two-qubit gates as well as measurements
+- (BONUS) Intuitivley get in touch with the concept of entanglement by combining single-,two-qubit gates as well as measurements with the [CX-H-X excercise](https://github.com/steppony/Qiskit-Hackaton/blob/main/Exercises/CX_H_X_excercise.ipynb)
 
 
 Takeway: 
-- Know the basic sinlge-qubit gates and their functionality
+- Know the basic sinlge-qubit gates and their action to different states
 - Transfer single-qubit knowledge to two-qubit controlled gates
 
 
@@ -81,15 +81,22 @@ Form of Teaching: Teacher explains qiskit code
 
 Content: 
 - Kahoot *questions 11-13*
-- Step by step walk through the quantum teleportation code
+- Step by step walk through the quantum [teleportation code](https://github.com/steppony/Qiskit-Hackaton/blob/main/Exercises/test_exercise.ipynb)
 - Demonstrate that teleporting a quantum state actually works
+
+Takeaway:
+
+- A complicated quantum circuit is build out of easy to understand subsystems
 
 
 
 ### Testing Exercise
 
-MISSING!
+Homework
+ - [Superdense coding](https://github.com/steppony/Qiskit-Hackaton/blob/main/Exercises/test_exercise.ipynb) exercise with instructions to do at home
 
+Takeaway:
+- Be confident to engange other quantum circuits
 
 # Qiskit-Hackaton Excersices
 The tasks done by us can be found in the [Hackathon_Excersices](https://github.com/steppony/Qiskit-Hackaton/tree/main/hackathon_exercises) folder.
