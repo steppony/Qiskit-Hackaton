@@ -8,7 +8,7 @@ On our path from superficial buzz words to the main goal, comprehending the quan
 We hope to create an awareness about the true power of quantum computation.
 The skills and knowledge aquired in this lecture will help students interested in quantum technologies to further engage the quantum computing community and allow them to follow more advanced lectures regarding this topic.
 This lecture aims to provide as much information about quantum computing as possible using minmial mathematical and physical concepts. We therefore e.g. neglect the normalization and phase of the wavefunction to make this lecture more
-tangible to high school students.
+tangible to high school students. Solutions to all the exercises are provided in the [exercises](https://github.com/steppony/Qiskit-Hackaton/tree/main/Exercises) folder.
 
 
 ### Kahoot
