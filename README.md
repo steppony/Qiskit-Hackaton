@@ -72,7 +72,7 @@ Form of Teaching: Open Discussion & Exercices + Video
 Takeway: 
 - Know the basic sinlge-qubit gates and their action to different states
 - Transfer single-qubit knowledge to two-qubit controlled gates
-
+- Understand how a measurement collapses the wavefunction and its outcome is probabilistic
 
 ### Putting it all together - Quantum teleportation
 
