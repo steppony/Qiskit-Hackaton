@@ -12,7 +12,7 @@ tangible to high school students.
 
 
 ### Kahoot
-A Kahoot quiz is used to open and accompany the lecture along its way. It is used to introduce a short break in between the different sections of the lectures keeping the students enganged and recatch their attention. 
+A [Kahoot](https://create.kahoot.it/details/3c621705-3a35-43ba-8eb9-cf678dfda3b7) quiz is used to open and accompany the lecture along its way. It is used to introduce a short break in between the different sections of the lectures keeping the students enganged and recatch their attention. 
 Hence making the lecture more interactive and fun. Only a few questions will be asked at a time with the last one acting as a transition to the next section. The questions cover actual facts about buzzwords regarding quantum computers as well as myths and can be a bit more andvanced. The lecturer will give a short explaination of the true statement after the question was asked in the Kahoot.
 This procedure will reveal myths that are untrue or partly unture while new facts will have a learning effect aswell or spark interest in a specific topic. 
 Examples are: 
@@ -85,6 +85,4 @@ This will be not part of the exercise, but is thought for the students to test t
 # Qiskit-Hackaton
 
 
-[Link to Kahoot quiz](https://create.kahoot.it/details/3c621705-3a35-43ba-8eb9-cf678dfda3b7)
-=======
->>>>>>> a0394e14fe8fb087b987269433dcbf7f86974ab8
+
