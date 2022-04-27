@@ -45,7 +45,7 @@ Duration: 10 Minutes
 Form of Teaching: Teaching 
 
 Content:
-- Kahoot *questions 2 - 4* 
+- Kahoot *questions 4-6* 
 - Explain what a qubit is in distinction to classical bit
 - show the concept of superposition with the 2d simulation !["Bloch circle"](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/qubit_animation.gif)
 
