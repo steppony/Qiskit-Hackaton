@@ -36,7 +36,7 @@ Form of Teaching: Presentation by Teacher Including Kahoot
 Content:
 -Introduction using Kahoot
 - Kahoot *Questions 1-3*
-- Show Teleportation circuit ![TELEPORTATION CIRCUIT](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/teleportation_circuit.png)
+- ![TELEPORTATION CIRCUIT](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/teleportation_circuit.png)
 - The Teleportation circuit is used to show the students where the lecture is headed and what the students can expect to learn.
 ### Qubits & Superposition 
 
@@ -47,7 +47,7 @@ Form of Teaching: Teaching
 Content:
 - Kahoot *Questions 4-7* 
 - Explain what a qubit is in distinction to classical bit
-- show the concept of superposition with the 2d simulation !["Bloch circle"](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/qubit_animation.gif)
+- Explain the concept of superposition with the 2d simulation !["Bloch circle"](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/qubit_animation.gif)
 
 
 ### Gates and measurements 
