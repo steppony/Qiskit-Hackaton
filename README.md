@@ -34,11 +34,10 @@ Duration: 5 Minutes
 Form of Teaching: Presentation by Teacher Including Kahoot 
 
 Content:
-- *Question 1*
-
-- Show Teleportation circuit [INSERT TELEPORTATION CIRCUIT]
-- The Teleportation circuit is used to show the students where the lecture is headed to. The teacher promises to teach them a little bit about real teleportation
-
+-Introduction using Kahoot
+- Kahoot *Question 1-3*
+- Show Teleportation circuit [TELEPORTATION CIRCUIT](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/teleportation_circuit.png)
+- The Teleportation circuit is used to show the students where the lecture is headed and what the students can expect to learn.
 ### Qubits & Superposition 
 
 Duration: 10 Minutes
@@ -48,7 +47,7 @@ Form of Teaching: Teaching
 Content:
 - Kahoot *questions 2 - 4* 
 - Explain what a qubit is in distinction to classical bit
-- show the concept of superposition with the 2d simulation "Bloch circle"
+- show the concept of superposition with the 2d simulation ["Bloch circle"](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/qubit_animation.gif)
 
 
 ### Gates and measurements 
