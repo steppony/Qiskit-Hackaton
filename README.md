@@ -56,7 +56,7 @@ Duration: 15 Minutes
 
 Form of Teaching: Open Discussion
 
--Kahoot *Questions 8-10*
+- Kahoot *Questions 8-10*
 - Explain X, H, Z gate using the excercise provided *Excercise 1*
 
 
