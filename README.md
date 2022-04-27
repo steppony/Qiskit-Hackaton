@@ -86,7 +86,7 @@ Content:
 
 Takeaway:
 
-- A complicated quantum circuit is build out of easy to understand subsystems
+- A complicated quantum circuit is build out of subsystems which are easy to understand
 
 
 
@@ -96,7 +96,7 @@ Homework
  - [Superdense coding](https://github.com/steppony/Qiskit-Hackaton/blob/main/Exercises/test_exercise.ipynb) exercise with instructions to do at home
 
 Takeaway:
-- Be confident to engange other quantum circuits
+- Be confident to tackle other quantum circuits
 
 # Qiskit-Hackaton Excersices
 The tasks done by us can be found in the [Hackathon_Excersices](https://github.com/steppony/Qiskit-Hackaton/tree/main/hackathon_exercises) folder.
