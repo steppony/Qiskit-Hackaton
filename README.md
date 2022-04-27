@@ -1,4 +1,4 @@
-
+![](https://github.com/steppony/Qiskit-Hackaton/blob/main/Visualizations/Measurement_visualization_compressed.gif)
 # Quantum Jargon Busters
 
 ## Abstract
