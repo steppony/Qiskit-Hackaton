@@ -52,7 +52,7 @@ Content:
 
 ### Gates and measurements 
 
-Duration: 15 Minutes
+Duration: 20 Minutes
 
 Form of Teaching: Open Discussion
 
@@ -63,7 +63,7 @@ Form of Teaching: Open Discussion
 ### Putting it all together - Quantum teleportation
 
 
-Duration: 20 Minutes
+Duration: 15 Minutes
 
 Form of Teaching: Teacher explains qiskit code
 
